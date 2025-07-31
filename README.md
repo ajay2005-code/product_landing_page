@@ -11,4 +11,4 @@ A responsive product landing page built using HTML5, CSS3, and Bootstrap 5.
 [GitHub Pages Link Here]
 
 ## Author
-Ajay – B.E. EEE Student | Aspiring Full Stack Developer
+Ajay – B.E. EEE Student | Future Full Stack Developer
